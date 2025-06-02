@@ -37,11 +37,17 @@ identify resource-intensive applications. top 15 cpu utilizations
 ![image](https://github.com/user-attachments/assets/ebc8076f-da2a-4cf0-b297-27e45a6dff58)
 
 Cron Job (shell scripting) for every 5 mins. 
-![image](https://github.com/user-attachments/assets/b855be32-8db5-4171-ab3d-441bde0fcbf2)
-
+![image](https://github.com/user-attachments/assets/d8495cab-33fb-4b4f-92b0-fe621e0acb51)
 
 Contents of Reporting Log File 
 ![image](https://github.com/user-attachments/assets/22af129b-4a33-4b55-94c1-1f633c24b007)
+
+
+Contents of the file after a sucessfull cron job execution
+![image](https://github.com/user-attachments/assets/b60f9c06-cf31-48d8-9a95-e7cc892ab870)
+
+Opening the file
+![image](https://github.com/user-attachments/assets/5c8f7da3-a640-4d4f-afee-62c9c6eebea3)
 
 End of Task #1 
 
