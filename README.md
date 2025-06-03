@@ -53,7 +53,43 @@ Step6C:Opening the file
 
 End of Task #1 
 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
 Start of Task #2
+
+Step1: User (Sarah & Mike) Creation
+
+![image](https://github.com/user-attachments/assets/1786371a-21d3-4d2e-af69-fb618e784594)
+
+Step2: Creating a password for the newly created Users 
+
+![image](https://github.com/user-attachments/assets/b026e1fe-f20b-48ac-8548-c2e2de15bcea)
+
+Step3: Creating Dedicated Workspace Directories
+
+![image](https://github.com/user-attachments/assets/3496197e-b9f8-4316-8958-81545f152a95)
+
+Step4: Seting up the Proper Ownership & Permissions, for Owner Access Only.
+
+![image](https://github.com/user-attachments/assets/70203d69-ad40-4b43-ba2f-f03fff0d7240)
+
+
+Step 5: Password Expiry Policy (should expire in 30 Days)
+
+![image](https://github.com/user-attachments/assets/38061d64-866e-4a05-9eb5-7c8c11fea2d6)
+
+End of Task #2
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Start of Task #3
+
+Step1: Create Backup Destination Directory
+
+![image](https://github.com/user-attachments/assets/e30ccc00-1ff4-48cd-9995-860f420c6855)
+
+Step2: Creating Backup Scripts
+
 
 
 
