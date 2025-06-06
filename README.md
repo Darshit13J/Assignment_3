@@ -90,6 +90,32 @@ Step1: Create Backup Destination Directory
 
 Step2: Creating Backup Scripts
 
+For Sarah, since she is using Apache Servcers, the backup file created is apache_backup.sh
+![image](https://github.com/user-attachments/assets/24491eb1-dc01-4f9f-b802-76df8aca8f88)
+
+For Mike, since he is using nginx servers, the backup file created is nginx_backup.sh
+![image](https://github.com/user-attachments/assets/4208eec1-3424-4143-9577-c5e2b7b44026)
+
+Setting executable permissions
+
+![image](https://github.com/user-attachments/assets/671164f6-cc31-41c4-8cdc-b1fc6ba676fe)
+
+Switching to Sarah user and enabling the Cronjon at the crontab 
+![image](https://github.com/user-attachments/assets/d652a13d-e768-42b3-bdb0-76187bd207ac)
+![image](https://github.com/user-attachments/assets/43905a9c-c03f-4c85-8cc5-58063be0bc33)
+
+Switching to Mike user and enabling the Cronjon at the crontab
+![image](https://github.com/user-attachments/assets/89898dc4-0de3-48da-bb66-2c60e58429dc)
+![image](https://github.com/user-attachments/assets/4fd917cb-ef28-4023-98c7-0a30bb1d50c4)
+
+Running the backfile for (Sarah)apache and verifying the log file.
+![image](https://github.com/user-attachments/assets/22bfc831-9bd8-427a-97ce-4d8219cafa26)
+
+Running the backfile for (Mike)nginx and verifying the log file. 
+![image](https://github.com/user-attachments/assets/74fa8974-84c1-4ad4-885e-6debd34179f4)
+
+
+
 
 
 
